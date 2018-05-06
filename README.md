@@ -1,6 +1,7 @@
 # CodeOcean webapp
 
 [![pipeline status](https://gitcity.sk/gitcity-sk/codeocean/webapp-ce/badges/master/pipeline.svg)](https://gitcity.sk/gitcity-sk/codeocean/webapp-ce/commits/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMayMeow%2Fwebapp-ce.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMayMeow%2Fwebapp-ce?ref=badge_shield)
 
 [![coverage report](https://gitcity.sk/gitcity-sk/codeocean/webapp-ce/badges/master/coverage.svg)](https://gitcity.sk/gitcity-sk/codeocean/webapp-ce/commits/master)
 
@@ -107,3 +108,6 @@ More will come.
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMayMeow%2Fwebapp-ce.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMayMeow%2Fwebapp-ce?ref=badge_large)
